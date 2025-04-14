@@ -20,16 +20,6 @@ Este projeto é uma simulação em Java do funcionamento básico de um sistema d
 
 ---
 
-## 📁 Estrutura do Projeto
-
-M-pesa/ │ ├── build.xml # Arquivo de build para NetBeans ├── manifest.mf # Manifesto para compilação ├── src/ # Código fonte principal │ └── m/pesa/ │ ├── array.java │ └── carteiraMpesa.java ├── build/classes/ # Classes compiladas ├── nbproject/ # Configurações do projeto NetBeans
-
-yaml
-Copiar
-Editar
-
----
-
 ## ▶️ Como Executar
 
 1. **Abra o projeto no NetBeans** ou outro ambiente compatível com Java.
